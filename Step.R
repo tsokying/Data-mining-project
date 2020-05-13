@@ -97,7 +97,7 @@ run1 <-function(name, dir){
 }
 
 run2 <-function(name, dir){
-  xtext <- indata(dir, "/Users/ling/Downloads/2_tm/stop.txt")
+  xtext <- indata(dir, "/stop.txt")
    for (n in 5:50){
       tp <- topword(xtext, n, 10)
       filename = paste("topwords", name, "_Topic", n, ".csv", sep = "")
