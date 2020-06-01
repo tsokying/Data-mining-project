@@ -2,7 +2,7 @@
 
 I did this project with guidance of my major (Politics) professor. <br>
 It was to find out if the speech and the action of different provinces align, by analysing the policy addresses (Speech) and comparing them with the GDP spending (Action).<br>
-My job was to collect the data, do data cleansing and identify them by catigories.<br>
+My job was to collect the data, do data cleansing and identify them by categories.<br>
 I made the suggestion to my professor that we can find out the top words easily with the help of R.<br>
 1) I downloaded the data and group them by provices. (folder /area)<br>
 2) I splited them by sentences and years respectively.<br>
